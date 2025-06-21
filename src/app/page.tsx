@@ -134,7 +134,7 @@ export default function Home() {
           title: "Predictive Analytics",
           desc: "Forecast sales, demand, and customer churn with machine learning.",
         },
-      ].map((proj, i) => (
+      ].map((proj) => (
         <div
           key={proj.title}
           className="bg-gray-800 rounded-xl shadow-lg p-6 flex flex-col items-start transition hover:-translate-y-1 hover:shadow-2xl duration-300"
