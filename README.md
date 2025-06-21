@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Flow6 Solutions 🌊
 
-## Getting Started
+**Flow6 Solutions** is a modern AI consulting agency helping startups and small businesses automate their workflows, scale operations, and unlock the full potential of artificial intelligence.
 
-First, run the development server:
+This is our official website, built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**, deployed on **Vercel**. The site showcases our services, lets clients book free consultations via Calendly, and will soon support Stripe-based subscriptions.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ⚡️ **Interactive Landing Page** with smooth animations and value-driven stats
+- 🧠 **Services Page** with detailed tabs for:
+  - Web Development
+  - Workflow Automation
+  - Automated Marketing Campaigns
+  - Data Solutions
+- 📅 **Contact Page** with embedded **Calendly** consultation booking
+- 💳 (Coming Soon) **Subscription Portal** powered by **Stripe**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 💼 About the Company
 
-To learn more about Next.js, take a look at the following resources:
+Flow6 Solutions was founded by engineers and builders from top institutions like MIT, Princeton, Stanford, Harvard, and Penn. Our mission is to **empower organizations through practical, high-impact AI automation**. We combine deep technical knowledge with startup-speed execution.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠 Tech Stack
 
-## Deploy on Vercel
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Calendly](https://calendly.com/)
+- [Stripe](https://stripe.com/) *(coming soon)*
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contact
+
+Want to automate your business?
+
+📧 Email: [contact@flow6.ai](mailto:contact@flow6.ai)  
+📅 Book a free consultation: [flow6.ai/contact](https://flow6.ai/contact)
+
+---
+
+## 🖥 Deployment
+
+This project is automatically deployed via [Vercel](https://vercel.com/).
